@@ -39,3 +39,5 @@ https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP18.mp4?attachm
 https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP19.mp4?attachment=true
 #EXTINF: 1 tvg-log = "" título de grupo = "",the thundermans 2x20
 https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP20.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" título de grupo = "",tnt
+https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597888162&token=89e38ecc7bf3aaebe90634c6a6d6b45f
